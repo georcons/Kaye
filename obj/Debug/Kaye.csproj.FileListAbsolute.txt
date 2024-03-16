@@ -1,0 +1,7 @@
+C:\Users\Niki\Desktop\Kay Products\Products\Kaye\Kaye v1.0\Dev\Kaye\Kaye\bin\Debug\Kaye.exe.config
+C:\Users\Niki\Desktop\Kay Products\Products\Kaye\Kaye v1.0\Dev\Kaye\Kaye\bin\Debug\Kaye.exe
+C:\Users\Niki\Desktop\Kay Products\Products\Kaye\Kaye v1.0\Dev\Kaye\Kaye\bin\Debug\Kaye.pdb
+C:\Users\Niki\Desktop\Kay Products\Products\Kaye\Kaye v1.0\Dev\Kaye\Kaye\obj\Debug\Kaye.csprojAssemblyReference.cache
+C:\Users\Niki\Desktop\Kay Products\Products\Kaye\Kaye v1.0\Dev\Kaye\Kaye\obj\Debug\Kaye.csproj.CoreCompileInputs.cache
+C:\Users\Niki\Desktop\Kay Products\Products\Kaye\Kaye v1.0\Dev\Kaye\Kaye\obj\Debug\Kaye.exe
+C:\Users\Niki\Desktop\Kay Products\Products\Kaye\Kaye v1.0\Dev\Kaye\Kaye\obj\Debug\Kaye.pdb
